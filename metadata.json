@@ -1,0 +1,5 @@
+{
+  "name": "Spotlight Projector",
+  "description": "A minimal spotlight application for projectors with adjustable size, opacity, and positioning.",
+  "requestFramePermissions": []
+}
